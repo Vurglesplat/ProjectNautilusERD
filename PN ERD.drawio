@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T15:50:21.589Z" agent="5.0 (Windows)" etag="Rbz1nAoxp2GiA_l62E3F" version="16.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T15:51:35.044Z" agent="5.0 (Windows)" etag="ZODE_dn3qnRjzGROQQ2i" version="16.6.7" type="github">
   <diagram id="y5uNfYxEgai9vvKYRE7q" name="Page-1">
-    <mxGraphModel dx="3197" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2411" dy="376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,214 +17,214 @@
           <mxGeometry x="-16.585365853658537" width="696.5853658536585" height="850" as="geometry" />
         </mxCell>
         <mxCell id="go6vWqejy8pKC4_B8dgW-109" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="go6vWqejy8pKC4_B8dgW-104" vertex="1">
-          <mxGeometry x="16.585365853658537" y="140" width="645.170731707317" height="723.48" as="geometry" />
+          <mxGeometry x="16.59" y="140" width="645.17" height="680" as="geometry" />
         </mxCell>
         <mxCell id="go6vWqejy8pKC4_B8dgW-110" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
-          <mxGeometry width="645.170731707317" height="36" as="geometry" />
+          <mxGeometry width="645.17" height="34" as="geometry" />
         </mxCell>
         <mxCell id="go6vWqejy8pKC4_B8dgW-111" value="Task Name" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-110" vertex="1">
-          <mxGeometry width="273" height="36" as="geometry">
-            <mxRectangle width="273" height="36" as="alternateBounds" />
+          <mxGeometry width="273" height="34" as="geometry">
+            <mxRectangle width="273" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="go6vWqejy8pKC4_B8dgW-112" value="&lt;b&gt;Description&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-110" vertex="1">
-          <mxGeometry x="273" width="372" height="36" as="geometry">
-            <mxRectangle width="372" height="36" as="alternateBounds" />
+          <mxGeometry x="273" width="372" height="34" as="geometry">
+            <mxRectangle width="372" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="go6vWqejy8pKC4_B8dgW-118" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
-          <mxGeometry y="36" width="645.170731707317" height="54" as="geometry" />
+          <mxGeometry y="34" width="645.17" height="51" as="geometry" />
         </mxCell>
         <mxCell id="go6vWqejy8pKC4_B8dgW-119" value="The harpoon&#39;s pull speed is being capped by the movement speed cap in the old drone movement" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-118" vertex="1">
-          <mxGeometry width="273" height="54" as="geometry">
-            <mxRectangle width="273" height="54" as="alternateBounds" />
+          <mxGeometry width="273" height="51" as="geometry">
+            <mxRectangle width="273" height="51" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="go6vWqejy8pKC4_B8dgW-120" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-118" vertex="1">
-          <mxGeometry x="273" width="372" height="54" as="geometry">
-            <mxRectangle width="372" height="54" as="alternateBounds" />
+          <mxGeometry x="273" width="372" height="51" as="geometry">
+            <mxRectangle width="372" height="51" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="go6vWqejy8pKC4_B8dgW-114" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
-          <mxGeometry y="90" width="645.170731707317" height="50" as="geometry" />
+          <mxGeometry y="85" width="645.17" height="47" as="geometry" />
         </mxCell>
         <mxCell id="go6vWqejy8pKC4_B8dgW-115" value="&lt;span style=&quot;text-align: center&quot;&gt;introduce lerp and ease in/out most of the UI,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;also get a warning when about to stall&lt;br&gt;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-114" vertex="1">
-          <mxGeometry width="273" height="50" as="geometry">
-            <mxRectangle width="273" height="50" as="alternateBounds" />
+          <mxGeometry width="273" height="47" as="geometry">
+            <mxRectangle width="273" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="go6vWqejy8pKC4_B8dgW-116" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-114" vertex="1">
-          <mxGeometry x="273" width="372" height="50" as="geometry">
-            <mxRectangle width="372" height="50" as="alternateBounds" />
+          <mxGeometry x="273" width="372" height="47" as="geometry">
+            <mxRectangle width="372" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="go6vWqejy8pKC4_B8dgW-155" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
-          <mxGeometry y="140" width="645.170731707317" height="60" as="geometry" />
+          <mxGeometry y="132" width="645.17" height="56" as="geometry" />
         </mxCell>
         <mxCell id="go6vWqejy8pKC4_B8dgW-156" value="&lt;span style=&quot;text-align: center&quot;&gt;add the ability for the aura radiator has the ability to send the tag and how strong that tag is.&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-155" vertex="1">
-          <mxGeometry width="273" height="60" as="geometry">
-            <mxRectangle width="273" height="60" as="alternateBounds" />
+          <mxGeometry width="273" height="56" as="geometry">
+            <mxRectangle width="273" height="56" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="go6vWqejy8pKC4_B8dgW-157" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-155" vertex="1">
-          <mxGeometry x="273" width="372" height="60" as="geometry">
-            <mxRectangle width="372" height="60" as="alternateBounds" />
+          <mxGeometry x="273" width="372" height="56" as="geometry">
+            <mxRectangle width="372" height="56" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Bw-sxPb2Esf4PSg_OQSB-51" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="go6vWqejy8pKC4_B8dgW-109">
-          <mxGeometry y="200" width="645.170731707317" height="60" as="geometry" />
+          <mxGeometry y="188" width="645.17" height="57" as="geometry" />
         </mxCell>
         <mxCell id="Bw-sxPb2Esf4PSg_OQSB-52" value="&lt;span style=&quot;text-align: center&quot;&gt;Add the ability for the drill and harpoon slowing down the drone&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Bw-sxPb2Esf4PSg_OQSB-51">
-          <mxGeometry width="273" height="60" as="geometry">
-            <mxRectangle width="273" height="60" as="alternateBounds" />
+          <mxGeometry width="273" height="57" as="geometry">
+            <mxRectangle width="273" height="57" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Bw-sxPb2Esf4PSg_OQSB-53" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Bw-sxPb2Esf4PSg_OQSB-51">
-          <mxGeometry x="273" width="372" height="60" as="geometry">
-            <mxRectangle width="372" height="60" as="alternateBounds" />
+          <mxGeometry x="273" width="372" height="57" as="geometry">
+            <mxRectangle width="372" height="57" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="go6vWqejy8pKC4_B8dgW-152" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
-          <mxGeometry y="260" width="645.170731707317" height="50" as="geometry" />
+          <mxGeometry y="245" width="645.17" height="47" as="geometry" />
         </mxCell>
         <mxCell id="go6vWqejy8pKC4_B8dgW-153" value="Have gears be taxed based on how&amp;nbsp; much the player is actually moving with the engine" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-152" vertex="1">
-          <mxGeometry width="273" height="50" as="geometry">
-            <mxRectangle width="273" height="50" as="alternateBounds" />
+          <mxGeometry width="273" height="47" as="geometry">
+            <mxRectangle width="273" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="go6vWqejy8pKC4_B8dgW-154" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-152" vertex="1">
-          <mxGeometry x="273" width="372" height="50" as="geometry">
-            <mxRectangle width="372" height="50" as="alternateBounds" />
+          <mxGeometry x="273" width="372" height="47" as="geometry">
+            <mxRectangle width="372" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6U_FLFZ1m8M36dPALxO--58" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
-          <mxGeometry y="310" width="645.170731707317" height="40" as="geometry" />
+          <mxGeometry y="292" width="645.17" height="37" as="geometry" />
         </mxCell>
         <mxCell id="6U_FLFZ1m8M36dPALxO--59" value="Simple tutorial pop up to make tutorialization easier for builds and features" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="6U_FLFZ1m8M36dPALxO--58" vertex="1">
-          <mxGeometry width="273" height="40" as="geometry">
-            <mxRectangle width="273" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6U_FLFZ1m8M36dPALxO--60" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="6U_FLFZ1m8M36dPALxO--58" vertex="1">
-          <mxGeometry x="273" width="372" height="40" as="geometry">
-            <mxRectangle width="372" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-167" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
-          <mxGeometry y="350" width="645.170731707317" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-168" value="Brainstorm and implement different variations of engine stalling" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-167" vertex="1">
-          <mxGeometry width="273" height="50" as="geometry">
-            <mxRectangle width="273" height="50" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-169" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-167" vertex="1">
-          <mxGeometry x="273" width="372" height="50" as="geometry">
-            <mxRectangle width="372" height="50" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-149" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
-          <mxGeometry y="400" width="645.170731707317" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-150" value="Screen-shake on engine over heat, add bubbles ejecting when the temp gets &quot;too high&quot;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-149" vertex="1">
-          <mxGeometry width="273" height="60" as="geometry">
-            <mxRectangle width="273" height="60" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-151" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-149" vertex="1">
-          <mxGeometry x="273" width="372" height="60" as="geometry">
-            <mxRectangle width="372" height="60" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-146" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
-          <mxGeometry y="460" width="645.170731707317" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-147" value="Design Vars for different ways of failures for the stalling, such as reverting to a lower gear" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-146" vertex="1">
-          <mxGeometry width="273" height="33" as="geometry">
-            <mxRectangle width="273" height="33" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-148" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-146" vertex="1">
-          <mxGeometry x="273" width="372" height="33" as="geometry">
-            <mxRectangle width="372" height="33" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-158" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
-          <mxGeometry y="493" width="645.170731707317" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-159" value="1-1, Refactor and make screen shake easier to do" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-158" vertex="1">
-          <mxGeometry width="273" height="32" as="geometry">
-            <mxRectangle width="273" height="32" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-160" value="If new ideas come up for how to convey&amp;nbsp; damage, the event and system can be renamed to handle those as well" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-158" vertex="1">
-          <mxGeometry x="273" width="372" height="32" as="geometry">
-            <mxRectangle width="372" height="32" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6U_FLFZ1m8M36dPALxO--18" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
-          <mxGeometry y="525" width="645.170731707317" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="6U_FLFZ1m8M36dPALxO--19" value="1-2, Mostly&amp;nbsp; in, just needs a bit of&amp;nbsp; refining" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="6U_FLFZ1m8M36dPALxO--18" vertex="1">
-          <mxGeometry width="273" height="32" as="geometry">
-            <mxRectangle width="273" height="32" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6U_FLFZ1m8M36dPALxO--20" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="6U_FLFZ1m8M36dPALxO--18" vertex="1">
-          <mxGeometry x="273" width="372" height="32" as="geometry">
-            <mxRectangle width="372" height="32" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-170" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
-          <mxGeometry y="557" width="645.170731707317" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-171" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-170" vertex="1">
-          <mxGeometry width="273" height="36" as="geometry">
-            <mxRectangle width="273" height="36" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-172" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-170" vertex="1">
-          <mxGeometry x="273" width="372" height="36" as="geometry">
-            <mxRectangle width="372" height="36" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-173" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
-          <mxGeometry y="593" width="645.170731707317" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-174" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-173" vertex="1">
           <mxGeometry width="273" height="37" as="geometry">
             <mxRectangle width="273" height="37" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-175" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-173" vertex="1">
+        <mxCell id="6U_FLFZ1m8M36dPALxO--60" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="6U_FLFZ1m8M36dPALxO--58" vertex="1">
           <mxGeometry x="273" width="372" height="37" as="geometry">
             <mxRectangle width="372" height="37" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-176" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
-          <mxGeometry y="630" width="645.170731707317" height="58" as="geometry" />
+        <mxCell id="go6vWqejy8pKC4_B8dgW-167" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
+          <mxGeometry y="329" width="645.17" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-177" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-176" vertex="1">
-          <mxGeometry width="273" height="58" as="geometry">
-            <mxRectangle width="273" height="58" as="alternateBounds" />
+        <mxCell id="go6vWqejy8pKC4_B8dgW-168" value="Brainstorm and implement different variations of engine stalling" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-167" vertex="1">
+          <mxGeometry width="273" height="47" as="geometry">
+            <mxRectangle width="273" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-178" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-176" vertex="1">
-          <mxGeometry x="273" width="372" height="58" as="geometry">
-            <mxRectangle width="372" height="58" as="alternateBounds" />
+        <mxCell id="go6vWqejy8pKC4_B8dgW-169" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-167" vertex="1">
+          <mxGeometry x="273" width="372" height="47" as="geometry">
+            <mxRectangle width="372" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-188" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
-          <mxGeometry y="688" width="645.170731707317" height="35" as="geometry" />
+        <mxCell id="go6vWqejy8pKC4_B8dgW-149" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
+          <mxGeometry y="376" width="645.17" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-189" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-188" vertex="1">
+        <mxCell id="go6vWqejy8pKC4_B8dgW-150" value="Screen-shake on engine over heat, add bubbles ejecting when the temp gets &quot;too high&quot;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-149" vertex="1">
+          <mxGeometry width="273" height="57" as="geometry">
+            <mxRectangle width="273" height="57" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="go6vWqejy8pKC4_B8dgW-151" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-149" vertex="1">
+          <mxGeometry x="273" width="372" height="57" as="geometry">
+            <mxRectangle width="372" height="57" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="go6vWqejy8pKC4_B8dgW-146" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
+          <mxGeometry y="433" width="645.17" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="go6vWqejy8pKC4_B8dgW-147" value="Design Vars for different ways of failures for the stalling, such as reverting to a lower gear" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-146" vertex="1">
+          <mxGeometry width="273" height="31" as="geometry">
+            <mxRectangle width="273" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="go6vWqejy8pKC4_B8dgW-148" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-146" vertex="1">
+          <mxGeometry x="273" width="372" height="31" as="geometry">
+            <mxRectangle width="372" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="go6vWqejy8pKC4_B8dgW-158" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
+          <mxGeometry y="464" width="645.17" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="go6vWqejy8pKC4_B8dgW-159" value="1-1, Refactor and make screen shake easier to do" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-158" vertex="1">
+          <mxGeometry width="273" height="30" as="geometry">
+            <mxRectangle width="273" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="go6vWqejy8pKC4_B8dgW-160" value="If new ideas come up for how to convey&amp;nbsp; damage, the event and system can be renamed to handle those as well" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-158" vertex="1">
+          <mxGeometry x="273" width="372" height="30" as="geometry">
+            <mxRectangle width="372" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6U_FLFZ1m8M36dPALxO--18" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
+          <mxGeometry y="494" width="645.17" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6U_FLFZ1m8M36dPALxO--19" value="1-2, Mostly&amp;nbsp; in, just needs a bit of&amp;nbsp; refining" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="6U_FLFZ1m8M36dPALxO--18" vertex="1">
+          <mxGeometry width="273" height="30" as="geometry">
+            <mxRectangle width="273" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6U_FLFZ1m8M36dPALxO--20" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="6U_FLFZ1m8M36dPALxO--18" vertex="1">
+          <mxGeometry x="273" width="372" height="30" as="geometry">
+            <mxRectangle width="372" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="go6vWqejy8pKC4_B8dgW-170" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
+          <mxGeometry y="524" width="645.17" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="go6vWqejy8pKC4_B8dgW-171" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-170" vertex="1">
+          <mxGeometry width="273" height="34" as="geometry">
+            <mxRectangle width="273" height="34" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="go6vWqejy8pKC4_B8dgW-172" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-170" vertex="1">
+          <mxGeometry x="273" width="372" height="34" as="geometry">
+            <mxRectangle width="372" height="34" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="go6vWqejy8pKC4_B8dgW-173" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
+          <mxGeometry y="558" width="645.17" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="go6vWqejy8pKC4_B8dgW-174" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-173" vertex="1">
           <mxGeometry width="273" height="35" as="geometry">
             <mxRectangle width="273" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-190" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-188" vertex="1">
+        <mxCell id="go6vWqejy8pKC4_B8dgW-175" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-173" vertex="1">
           <mxGeometry x="273" width="372" height="35" as="geometry">
             <mxRectangle width="372" height="35" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="go6vWqejy8pKC4_B8dgW-176" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
+          <mxGeometry y="593" width="645.17" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="go6vWqejy8pKC4_B8dgW-177" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-176" vertex="1">
+          <mxGeometry width="273" height="54" as="geometry">
+            <mxRectangle width="273" height="54" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="go6vWqejy8pKC4_B8dgW-178" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-176" vertex="1">
+          <mxGeometry x="273" width="372" height="54" as="geometry">
+            <mxRectangle width="372" height="54" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="go6vWqejy8pKC4_B8dgW-188" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
+          <mxGeometry y="647" width="645.17" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="go6vWqejy8pKC4_B8dgW-189" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-188" vertex="1">
+          <mxGeometry width="273" height="33" as="geometry">
+            <mxRectangle width="273" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="go6vWqejy8pKC4_B8dgW-190" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-188" vertex="1">
+          <mxGeometry x="273" width="372" height="33" as="geometry">
+            <mxRectangle width="372" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Bw-sxPb2Esf4PSg_OQSB-5" value="&lt;h1&gt;Internal Schema&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Programmer-Translated goals, unsorted&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="go6vWqejy8pKC4_B8dgW-104">
