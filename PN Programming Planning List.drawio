@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T22:01:06.549Z" agent="5.0 (Windows)" etag="6t4ZGvT16NFtbpcydkNX" version="16.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T22:16:03.256Z" agent="5.0 (Windows)" etag="vq3S2bsWsPsW_9HALdOB" version="16.6.7" type="github">
   <diagram id="y5uNfYxEgai9vvKYRE7q" name="Page-1">
-    <mxGraphModel dx="3478" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3122" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,12 +17,12 @@
           <mxGeometry x="-17.07" width="717.07" height="1140" as="geometry" />
         </mxCell>
         <mxCell id="go6vWqejy8pKC4_B8dgW-109" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rowLines=1;" parent="go6vWqejy8pKC4_B8dgW-104" vertex="1">
-          <mxGeometry x="17.07794117647059" y="140" width="672.6279411764706" height="872" as="geometry" />
+          <mxGeometry x="17.07794117647059" y="140" width="672.6279411764706" height="942" as="geometry" />
         </mxCell>
         <mxCell id="go6vWqejy8pKC4_B8dgW-110" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
           <mxGeometry width="672.6279411764706" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-30" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="go6vWqejy8pKC4_B8dgW-110">
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-30" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-110" vertex="1">
           <mxGeometry width="23" height="30" as="geometry">
             <mxRectangle width="23" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -40,7 +40,7 @@
         <mxCell id="go6vWqejy8pKC4_B8dgW-118" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
           <mxGeometry y="30" width="672.6279411764706" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-31" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="go6vWqejy8pKC4_B8dgW-118">
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-31" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-118" vertex="1">
           <mxGeometry width="23" height="51" as="geometry">
             <mxRectangle width="23" height="51" as="alternateBounds" />
           </mxGeometry>
@@ -58,7 +58,7 @@
         <mxCell id="go6vWqejy8pKC4_B8dgW-114" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
           <mxGeometry y="81" width="672.6279411764706" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-32" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="go6vWqejy8pKC4_B8dgW-114">
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-32" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-114" vertex="1">
           <mxGeometry width="23" height="47" as="geometry">
             <mxRectangle width="23" height="47" as="alternateBounds" />
           </mxGeometry>
@@ -76,7 +76,7 @@
         <mxCell id="go6vWqejy8pKC4_B8dgW-155" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
           <mxGeometry y="128" width="672.6279411764706" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-33" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="go6vWqejy8pKC4_B8dgW-155">
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-33" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-155" vertex="1">
           <mxGeometry width="23" height="56" as="geometry">
             <mxRectangle width="23" height="56" as="alternateBounds" />
           </mxGeometry>
@@ -94,7 +94,7 @@
         <mxCell id="Bw-sxPb2Esf4PSg_OQSB-51" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
           <mxGeometry y="184" width="672.6279411764706" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-34" value="4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Bw-sxPb2Esf4PSg_OQSB-51">
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-34" value="4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="Bw-sxPb2Esf4PSg_OQSB-51" vertex="1">
           <mxGeometry width="23" height="57" as="geometry">
             <mxRectangle width="23" height="57" as="alternateBounds" />
           </mxGeometry>
@@ -112,7 +112,7 @@
         <mxCell id="go6vWqejy8pKC4_B8dgW-152" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
           <mxGeometry y="241" width="672.6279411764706" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-35" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="go6vWqejy8pKC4_B8dgW-152">
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-35" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-152" vertex="1">
           <mxGeometry width="23" height="47" as="geometry">
             <mxRectangle width="23" height="47" as="alternateBounds" />
           </mxGeometry>
@@ -130,7 +130,7 @@
         <mxCell id="6U_FLFZ1m8M36dPALxO--58" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
           <mxGeometry y="288" width="672.6279411764706" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-36" value="6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="6U_FLFZ1m8M36dPALxO--58">
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-36" value="6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="6U_FLFZ1m8M36dPALxO--58" vertex="1">
           <mxGeometry width="23" height="37" as="geometry">
             <mxRectangle width="23" height="37" as="alternateBounds" />
           </mxGeometry>
@@ -148,7 +148,7 @@
         <mxCell id="go6vWqejy8pKC4_B8dgW-167" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
           <mxGeometry y="325" width="672.6279411764706" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-37" value="7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="go6vWqejy8pKC4_B8dgW-167">
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-37" value="7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-167" vertex="1">
           <mxGeometry width="23" height="47" as="geometry">
             <mxRectangle width="23" height="47" as="alternateBounds" />
           </mxGeometry>
@@ -166,7 +166,7 @@
         <mxCell id="go6vWqejy8pKC4_B8dgW-149" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
           <mxGeometry y="372" width="672.6279411764706" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-38" value="8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="go6vWqejy8pKC4_B8dgW-149">
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-38" value="8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-149" vertex="1">
           <mxGeometry width="23" height="57" as="geometry">
             <mxRectangle width="23" height="57" as="alternateBounds" />
           </mxGeometry>
@@ -184,7 +184,7 @@
         <mxCell id="go6vWqejy8pKC4_B8dgW-146" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
           <mxGeometry y="429" width="672.6279411764706" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-39" value="9" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="go6vWqejy8pKC4_B8dgW-146">
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-39" value="9" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-146" vertex="1">
           <mxGeometry width="23" height="31" as="geometry">
             <mxRectangle width="23" height="31" as="alternateBounds" />
           </mxGeometry>
@@ -202,7 +202,7 @@
         <mxCell id="go6vWqejy8pKC4_B8dgW-158" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
           <mxGeometry y="460" width="672.6279411764706" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-40" value="10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="go6vWqejy8pKC4_B8dgW-158">
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-40" value="10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-158" vertex="1">
           <mxGeometry width="23" height="30" as="geometry">
             <mxRectangle width="23" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -220,7 +220,7 @@
         <mxCell id="6U_FLFZ1m8M36dPALxO--18" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
           <mxGeometry y="490" width="672.6279411764706" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-41" value="&lt;div&gt;11&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="6U_FLFZ1m8M36dPALxO--18">
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-41" value="&lt;div&gt;11&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="6U_FLFZ1m8M36dPALxO--18" vertex="1">
           <mxGeometry width="23" height="46" as="geometry">
             <mxRectangle width="23" height="46" as="alternateBounds" />
           </mxGeometry>
@@ -238,7 +238,7 @@
         <mxCell id="go6vWqejy8pKC4_B8dgW-170" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
           <mxGeometry y="536" width="672.6279411764706" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-42" value="12" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="go6vWqejy8pKC4_B8dgW-170">
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-42" value="12" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-170" vertex="1">
           <mxGeometry width="23" height="34" as="geometry">
             <mxRectangle width="23" height="34" as="alternateBounds" />
           </mxGeometry>
@@ -256,7 +256,7 @@
         <mxCell id="go6vWqejy8pKC4_B8dgW-173" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
           <mxGeometry y="570" width="672.6279411764706" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-43" value="13" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="go6vWqejy8pKC4_B8dgW-173">
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-43" value="13" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-173" vertex="1">
           <mxGeometry width="23" height="50" as="geometry">
             <mxRectangle width="23" height="50" as="alternateBounds" />
           </mxGeometry>
@@ -274,7 +274,7 @@
         <mxCell id="go6vWqejy8pKC4_B8dgW-176" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
           <mxGeometry y="620" width="672.6279411764706" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-44" value="&lt;div&gt;14&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="go6vWqejy8pKC4_B8dgW-176">
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-44" value="&lt;div&gt;14&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-176" vertex="1">
           <mxGeometry width="23" height="54" as="geometry">
             <mxRectangle width="23" height="54" as="alternateBounds" />
           </mxGeometry>
@@ -289,110 +289,110 @@
             <mxRectangle width="458" height="54" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-70" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="go6vWqejy8pKC4_B8dgW-109">
-          <mxGeometry y="674" width="672.6279411764706" height="33" as="geometry" />
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-70" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
+          <mxGeometry y="674" width="672.6279411764706" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-71" value="15" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="7hOcJhxRe1nCthfk7AWI-70">
-          <mxGeometry width="23" height="33" as="geometry">
-            <mxRectangle width="23" height="33" as="alternateBounds" />
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-71" value="15" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="7hOcJhxRe1nCthfk7AWI-70" vertex="1">
+          <mxGeometry width="23" height="56" as="geometry">
+            <mxRectangle width="23" height="56" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-72" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="7hOcJhxRe1nCthfk7AWI-70">
-          <mxGeometry x="23" width="192" height="33" as="geometry">
-            <mxRectangle width="192" height="33" as="alternateBounds" />
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-72" value="Saving Data" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="7hOcJhxRe1nCthfk7AWI-70" vertex="1">
+          <mxGeometry x="23" width="192" height="56" as="geometry">
+            <mxRectangle width="192" height="56" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-73" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="7hOcJhxRe1nCthfk7AWI-70">
-          <mxGeometry x="215" width="458" height="33" as="geometry">
-            <mxRectangle width="458" height="33" as="alternateBounds" />
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-73" value="L&#39;Abbe, beacon postiions, what enemies died, what narrative lines tyriggered(check with Nick P.), number of player deaths, could also look into hjaving the level not reload " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="7hOcJhxRe1nCthfk7AWI-70" vertex="1">
+          <mxGeometry x="215" width="458" height="56" as="geometry">
+            <mxRectangle width="458" height="56" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="go6vWqejy8pKC4_B8dgW-188" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
-          <mxGeometry y="707" width="672.6279411764706" height="33" as="geometry" />
+          <mxGeometry y="730" width="672.6279411764706" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-45" value="16" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="go6vWqejy8pKC4_B8dgW-188">
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-45" value="16" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-188" vertex="1">
+          <mxGeometry width="23" height="80" as="geometry">
+            <mxRectangle width="23" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="go6vWqejy8pKC4_B8dgW-189" value="Angler fish attaching friendley fish" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-188" vertex="1">
+          <mxGeometry x="23" width="192" height="80" as="geometry">
+            <mxRectangle width="192" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="go6vWqejy8pKC4_B8dgW-190" value="&lt;div&gt;2nd range than the player&#39;s vision for the fishes&lt;/div&gt;&lt;div&gt;Sphere radius for friendly fishes,&lt;/div&gt;&lt;div&gt;attacking the angler makes it aware of the player.&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-188" vertex="1">
+          <mxGeometry x="215" width="458" height="80" as="geometry">
+            <mxRectangle width="458" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-54" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
+          <mxGeometry y="810" width="672.6279411764706" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-55" value="17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="7hOcJhxRe1nCthfk7AWI-54" vertex="1">
           <mxGeometry width="23" height="33" as="geometry">
             <mxRectangle width="23" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-189" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-188" vertex="1">
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-56" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="7hOcJhxRe1nCthfk7AWI-54" vertex="1">
           <mxGeometry x="23" width="192" height="33" as="geometry">
             <mxRectangle width="192" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-190" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-188" vertex="1">
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-57" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="7hOcJhxRe1nCthfk7AWI-54" vertex="1">
           <mxGeometry x="215" width="458" height="33" as="geometry">
             <mxRectangle width="458" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-54" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="go6vWqejy8pKC4_B8dgW-109">
-          <mxGeometry y="740" width="672.6279411764706" height="33" as="geometry" />
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-58" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
+          <mxGeometry y="843" width="672.6279411764706" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-55" value="17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="7hOcJhxRe1nCthfk7AWI-54">
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-59" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="7hOcJhxRe1nCthfk7AWI-58" vertex="1">
           <mxGeometry width="23" height="33" as="geometry">
             <mxRectangle width="23" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-56" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="7hOcJhxRe1nCthfk7AWI-54">
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-60" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="7hOcJhxRe1nCthfk7AWI-58" vertex="1">
           <mxGeometry x="23" width="192" height="33" as="geometry">
             <mxRectangle width="192" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-57" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="7hOcJhxRe1nCthfk7AWI-54">
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-61" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="7hOcJhxRe1nCthfk7AWI-58" vertex="1">
           <mxGeometry x="215" width="458" height="33" as="geometry">
             <mxRectangle width="458" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-58" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="go6vWqejy8pKC4_B8dgW-109">
-          <mxGeometry y="773" width="672.6279411764706" height="33" as="geometry" />
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-62" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
+          <mxGeometry y="876" width="672.6279411764706" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-59" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="7hOcJhxRe1nCthfk7AWI-58">
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-63" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="7hOcJhxRe1nCthfk7AWI-62" vertex="1">
           <mxGeometry width="23" height="33" as="geometry">
             <mxRectangle width="23" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-60" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="7hOcJhxRe1nCthfk7AWI-58">
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-64" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="7hOcJhxRe1nCthfk7AWI-62" vertex="1">
           <mxGeometry x="23" width="192" height="33" as="geometry">
             <mxRectangle width="192" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-61" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="7hOcJhxRe1nCthfk7AWI-58">
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-65" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="7hOcJhxRe1nCthfk7AWI-62" vertex="1">
           <mxGeometry x="215" width="458" height="33" as="geometry">
             <mxRectangle width="458" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-62" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="go6vWqejy8pKC4_B8dgW-109">
-          <mxGeometry y="806" width="672.6279411764706" height="33" as="geometry" />
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-66" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
+          <mxGeometry y="909" width="672.6279411764706" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-63" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="7hOcJhxRe1nCthfk7AWI-62">
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-67" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="7hOcJhxRe1nCthfk7AWI-66" vertex="1">
           <mxGeometry width="23" height="33" as="geometry">
             <mxRectangle width="23" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-64" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="7hOcJhxRe1nCthfk7AWI-62">
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-68" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="7hOcJhxRe1nCthfk7AWI-66" vertex="1">
           <mxGeometry x="23" width="192" height="33" as="geometry">
             <mxRectangle width="192" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-65" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="7hOcJhxRe1nCthfk7AWI-62">
-          <mxGeometry x="215" width="458" height="33" as="geometry">
-            <mxRectangle width="458" height="33" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-66" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="go6vWqejy8pKC4_B8dgW-109">
-          <mxGeometry y="839" width="672.6279411764706" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-67" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="7hOcJhxRe1nCthfk7AWI-66">
-          <mxGeometry width="23" height="33" as="geometry">
-            <mxRectangle width="23" height="33" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-68" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="7hOcJhxRe1nCthfk7AWI-66">
-          <mxGeometry x="23" width="192" height="33" as="geometry">
-            <mxRectangle width="192" height="33" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-69" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="7hOcJhxRe1nCthfk7AWI-66">
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-69" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="7hOcJhxRe1nCthfk7AWI-66" vertex="1">
           <mxGeometry x="215" width="458" height="33" as="geometry">
             <mxRectangle width="458" height="33" as="alternateBounds" />
           </mxGeometry>
@@ -412,7 +412,7 @@
         <mxCell id="go6vWqejy8pKC4_B8dgW-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="go6vWqejy8pKC4_B8dgW-16" vertex="1">
           <mxGeometry width="630" height="1410" as="geometry" />
         </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-15" value="&lt;h1&gt;External Schema&lt;/h1&gt;&lt;div&gt;Customer end goals&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;1 - Design Doc&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&amp;nbsp;the player understands when and why damage is being dealt or received through use of visual and auditory feedback.&lt;br&gt;&lt;/li&gt;&lt;li&gt;The drone must be in range of a Signal Beacon to operate. When the player is leaving the range of the closest signal beacon, their camera feed will get more and more fuzzy until the connection to the drone has been lost (the same as if the drone were destroyed). The player will then have to request a new drone (see Respawning.)&lt;/li&gt;&lt;li&gt;Signal beacons have levels of safety. Signal Beacons have levels of safety. If there is an encounter near the beacon that has not been completed the beacon is Unsafe. Once the encounter is completed by the player the beacon is Safe.&amp;nbsp;Signal Beacons have a light on top of them, it flashes yellow while unsafe, and green while safe.&lt;/li&gt;&lt;li&gt;Drones can be spawned at safe Signal Beacons. When the player’s drone is destroyed, they can request that their new drone be deployed at the most recently placed beacon that is in the Safe state.&lt;/li&gt;&lt;li&gt;The ability for a level designer to signify that an encounter exists in an area, and whether it has been resolved or not. Implementation pattern is at the discretion of the programmer. (I trust your judgment &amp;lt;3.)&lt;/li&gt;&lt;li&gt;is for the player to pull any creatures towards the drone.&lt;br&gt;&lt;/li&gt;&lt;li&gt;The temperature of an object can be masked by Ambient Temperature. Say a creature that can detect heat is chasing the player’s drone and the player moves next to an incredibly hot heat vent. Because the creature’s detection is based on heat, they will not be able to detect the player drone because a higher ambient temperature is masking the drone’s temperature. (float for diff between current temp and ambient temp)&lt;br&gt;&lt;/li&gt;&lt;li&gt;When a sound is created, it’s effect dissipates out in a radius lowering in decibels until it reaches zero.&lt;/li&gt;&lt;li&gt;Creatures can perceive and react to sounds&lt;br&gt;&lt;/li&gt;&lt;li&gt;The player’s map is a representation of where their drone has explored. As they place more Signal Beacons, more of the map will be visible. The player can bring up the map to look at it at any time. The map is represented by a simplified 3D model of the game’s world. Signal beacons that have been deployed will be represented on the map as glowing dots. See the (very rudimentary) mockup of the map screen below. The player can select safe Signal Beacons to Auto Pilot their drone to (see Signal Beacon Rules.)&lt;/li&gt;&lt;li&gt;Create instantaneous sources of sound (eg. the drone being hit) at varying volumes and ranges.&lt;/li&gt;&lt;li&gt;Create continuous sources of sound (eg. the drone’s engine running) at varying volumes and ranges.&lt;/li&gt;&lt;li&gt;Adjust the AI of creatures to react to sounds in the environment.&lt;/li&gt;&lt;li&gt;When a bright source of Light is present the coral will quickly curve away it’s flagella and stop blocking whatever it has control of and release a flurry of bubbles from it’s base.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2 - Gathered From Direct Designer Interaction&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3 - Etc.&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;The UI for the system mentioned in the msg I&#39;m replying to, basically the cell/wifi connection UI, would be based off the ConnectionHandler.cs and could be a third serialized class instance named something like ConnectionUI&lt;/li&gt;&lt;li&gt;Figure out and begin transplanting the systems that have been worked on in the big Level2-Old scene and transplant it over to the scenes in LevelLoadingTesting/, going to need some refactoring, like I imagine we&#39;ll need to look at the system for beacons since you&#39;ll need to spawn with one for the current system but it currently only adds them once they&#39;ve been placed (so we&#39;ll need a better way than the current one for the player spawning near one)&lt;/li&gt;&lt;li&gt;Modify the timing between gear switching to support basically every possible permutation of different delays, such as a delay where you press a button and the UI immediately changes, but the gear is actually only switched to in gameplay after X (a designer set amount of time), this should all be handled in NewMovement.cs which can be renamed to GearHandling.cs. We want basically every kind of delay imaginable as an option, I&#39;d recommend an enum to set which kind is currently being used.\&lt;/li&gt;&lt;li&gt;The tagging system has been remade into the status system, which can be found under ScriptableObjects/Statuses/, familiarizing yourself with how the ones already there work, as well as the StatusSpreader.cs and the StatusContainer.cs would be useful for anyone who plans on working extensively on the gameplay side, looking at how it&#39;s implemented (giving my any feedback if you have any), and, if you are feeling frisky, adding the beginnings of a sound status following the same template as the others are all solid choices for tasks &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;4 - Sprint&amp;nbsp; planning &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Caves Implemented&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Layer I: Encounters, Art First Pass, Tutorialization &lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Layer II: Some Encounters, Art First Pass, &lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Layer III: Blockout Exists&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Layer IV: Something Exists&lt;/li&gt;&lt;li&gt;Pressing buttons skips to certain points of the game&lt;/li&gt;&lt;li&gt;Can Move Between Layers/Play the Game&lt;/li&gt;&lt;li&gt;Mapping System is Made Feasible (By Layer)&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Render Player Position w/in Map&lt;/li&gt;&lt;li&gt;Signal Beacon “Checkpoints” (Most Recent, Basic)&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="go6vWqejy8pKC4_B8dgW-16" vertex="1">
+        <mxCell id="go6vWqejy8pKC4_B8dgW-15" value="&lt;h1&gt;External Schema&lt;/h1&gt;&lt;div&gt;Customer end goals&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;1 - Design Doc&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&amp;nbsp;the player understands when and why damage is being dealt or received through use of visual and auditory feedback.&lt;br&gt;&lt;/li&gt;&lt;li&gt;The drone must be in range of a Signal Beacon to operate. When the player is leaving the range of the closest signal beacon, their camera feed will get more and more fuzzy until the connection to the drone has been lost (the same as if the drone were destroyed). The player will then have to request a new drone (see Respawning.)&lt;/li&gt;&lt;li&gt;Signal beacons have levels of safety. Signal Beacons have levels of safety. If there is an encounter near the beacon that has not been completed the beacon is Unsafe. Once the encounter is completed by the player the beacon is Safe.&amp;nbsp;Signal Beacons have a light on top of them, it flashes yellow while unsafe, and green while safe.&lt;/li&gt;&lt;li&gt;Drones can be spawned at safe Signal Beacons. When the player’s drone is destroyed, they can request that their new drone be deployed at the most recently placed beacon that is in the Safe state.&lt;/li&gt;&lt;li&gt;The ability for a level designer to signify that an encounter exists in an area, and whether it has been resolved or not. Implementation pattern is at the discretion of the programmer. (I trust your judgment &amp;lt;3.)&lt;/li&gt;&lt;li&gt;is for the player to pull any creatures towards the drone.&lt;br&gt;&lt;/li&gt;&lt;li&gt;The temperature of an object can be masked by Ambient Temperature. Say a creature that can detect heat is chasing the player’s drone and the player moves next to an incredibly hot heat vent. Because the creature’s detection is based on heat, they will not be able to detect the player drone because a higher ambient temperature is masking the drone’s temperature. (float for diff between current temp and ambient temp)&lt;br&gt;&lt;/li&gt;&lt;li&gt;When a sound is created, it’s effect dissipates out in a radius lowering in decibels until it reaches zero.&lt;/li&gt;&lt;li&gt;Creatures can perceive and react to sounds&lt;br&gt;&lt;/li&gt;&lt;li&gt;The player’s map is a representation of where their drone has explored. As they place more Signal Beacons, more of the map will be visible. The player can bring up the map to look at it at any time. The map is represented by a simplified 3D model of the game’s world. Signal beacons that have been deployed will be represented on the map as glowing dots. See the (very rudimentary) mockup of the map screen below. The player can select safe Signal Beacons to Auto Pilot their drone to (see Signal Beacon Rules.)&lt;/li&gt;&lt;li&gt;Create instantaneous sources of sound (eg. the drone being hit) at varying volumes and ranges.&lt;/li&gt;&lt;li&gt;Create continuous sources of sound (eg. the drone’s engine running) at varying volumes and ranges.&lt;/li&gt;&lt;li&gt;Adjust the AI of creatures to react to sounds in the environment.&lt;/li&gt;&lt;li&gt;When a bright source of Light is present the coral will quickly curve away it’s flagella and stop blocking whatever it has control of and release a flurry of bubbles from it’s base.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2 - Gathered From Direct Designer Interaction&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3 - Etc.&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;The UI for the system mentioned in the msg I&#39;m replying to, basically the cell/wifi connection UI, would be based off the ConnectionHandler.cs and could be a third serialized class instance named something like ConnectionUI&lt;/li&gt;&lt;li&gt;Figure out and begin transplanting the systems that have been worked on in the big Level2-Old scene and transplant it over to the scenes in LevelLoadingTesting/, going to need some refactoring, like I imagine we&#39;ll need to look at the system for beacons since you&#39;ll need to spawn with one for the current system but it currently only adds them once they&#39;ve been placed (so we&#39;ll need a better way than the current one for the player spawning near one)&lt;/li&gt;&lt;li&gt;Modify the timing between gear switching to support basically every possible permutation of different delays, such as a delay where you press a button and the UI immediately changes, but the gear is actually only switched to in gameplay after X (a designer set amount of time), this should all be handled in NewMovement.cs which can be renamed to GearHandling.cs. We want basically every kind of delay imaginable as an option, I&#39;d recommend an enum to set which kind is currently being used.\&lt;/li&gt;&lt;li&gt;The tagging system has been remade into the status system, which can be found under ScriptableObjects/Statuses/, familiarizing yourself with how the ones already there work, as well as the StatusSpreader.cs and the StatusContainer.cs would be useful for anyone who plans on working extensively on the gameplay side, looking at how it&#39;s implemented (giving my any feedback if you have any), and, if you are feeling frisky, adding the beginnings of a sound status following the same template as the others are all solid choices for tasks &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;4 - Sprint&amp;nbsp; planning &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Caves Implemented&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;Layer I: Encounters, Art First Pass, Tutorialization &lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;Layer II: Some Encounters, Art First Pass, &lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;Layer III: Blockout Exists&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;Layer IV: Something Exists&lt;/li&gt;&lt;li&gt;Pressing buttons skips to certain points of the game&lt;/li&gt;&lt;li&gt;Can Move Between Layers/Play the Game&lt;/li&gt;&lt;li&gt;Mapping System is Made Feasible (By Layer)&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;Render Player Position w/in Map&lt;/li&gt;&lt;li&gt;Signal Beacon “Checkpoints” (Most Recent, Basic)&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="go6vWqejy8pKC4_B8dgW-16" vertex="1">
           <mxGeometry x="20" y="37.62136363636363" width="589.77" height="1351.0149999999999" as="geometry" />
         </mxCell>
         <mxCell id="xhr826M39EY4KeseyqCB-3" value="" style="group" parent="1" vertex="1" connectable="0">
