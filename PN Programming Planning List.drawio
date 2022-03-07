@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T17:39:56.904Z" agent="5.0 (Windows)" etag="60CSgv-YPlheGJfQxgcr" version="16.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T18:51:47.109Z" agent="5.0 (Windows)" etag="Y57AC3yKRL6eH5S8q-WE" version="16.6.7" type="github">
   <diagram id="y5uNfYxEgai9vvKYRE7q" name="Page-1">
     <mxGraphModel dx="3122" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -45,12 +45,12 @@
             <mxRectangle width="23" height="51" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-119" value="The harpoon&#39;s pull speed is being capped by the movement speed cap in the old drone movement" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-118" vertex="1">
+        <mxCell id="go6vWqejy8pKC4_B8dgW-119" value="getting everything from &lt;b&gt;Scene2-Old&lt;/b&gt; to the proper segmented areas" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-118" vertex="1">
           <mxGeometry x="23" width="192" height="51" as="geometry">
             <mxRectangle width="192" height="51" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-120" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-118" vertex="1">
+        <mxCell id="go6vWqejy8pKC4_B8dgW-120" value="Multi level loading is in, we need to shift the things over to that" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-118" vertex="1">
           <mxGeometry x="215" width="458" height="51" as="geometry">
             <mxRectangle width="458" height="51" as="alternateBounds" />
           </mxGeometry>
@@ -238,12 +238,12 @@
         <mxCell id="go6vWqejy8pKC4_B8dgW-170" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="go6vWqejy8pKC4_B8dgW-109" vertex="1">
           <mxGeometry y="536" width="672.6279411764706" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="7hOcJhxRe1nCthfk7AWI-42" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="go6vWqejy8pKC4_B8dgW-170">
+        <mxCell id="7hOcJhxRe1nCthfk7AWI-42" value="12" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="go6vWqejy8pKC4_B8dgW-170">
           <mxGeometry width="23" height="34" as="geometry">
             <mxRectangle width="23" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="go6vWqejy8pKC4_B8dgW-171" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-170" vertex="1">
+        <mxCell id="go6vWqejy8pKC4_B8dgW-171" value="The harpoon&#39;s pull speed is being capped by the movement speed cap in the old drone movement" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="go6vWqejy8pKC4_B8dgW-170" vertex="1">
           <mxGeometry x="23" width="192" height="34" as="geometry">
             <mxRectangle width="192" height="34" as="alternateBounds" />
           </mxGeometry>
